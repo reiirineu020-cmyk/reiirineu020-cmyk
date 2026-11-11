@@ -1,16 +1,18 @@
-## Hi there 👋
+# TITULO
+## SUBTITULO
+**NEGRITO**
+- ITEM (ITEM LISTA)
+[TEXTO].(https://link.com) - link clicável
+![descrição].(link-da-imagem). - imagem
 
-<!--
-**reiirineu020-cmyk/reiirineu020-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou Reinaldo
+Estudante de desenvolvimento de sistemas - senai
+programação e desenvolvimento web
 
-Here are some ideas to get you started:
+## Tecnologias
+Linguagens: Python
+Banco de dados: mysal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
